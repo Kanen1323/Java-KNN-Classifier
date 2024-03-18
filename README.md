@@ -45,7 +45,7 @@ The project utilizes the Singleton design pattern in the `Panel` class. The Sing
 ## Usage Instructions
 
 1. Clone the repository to your local machine: 
-https://github.com/Kanen1323/Java-KNN-Classifier.git
+[https://github.com/Kanen1323/Java-KNN-Classifier.git](https://github.com/Kanen1323/Java-KNN-Classifier.git)
 2. Run the `Main` class.
 3. Follow the instructions provided by the program to perform classification tasks:
    - Choose options to use a ready-made file or provide a file path for testing data.
